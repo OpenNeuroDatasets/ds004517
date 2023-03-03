@@ -1,0 +1,10 @@
+{
+    "Name": "EEG of semantic categories of imagined concepts of animals and tools during auditory imagery task",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Milan Rybář",
+        "Riccardo Poli",
+        "Ian Daly"
+    ]
+}
