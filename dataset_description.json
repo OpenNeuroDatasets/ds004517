@@ -1,5 +1,5 @@
 {
-    "Name": "EEG of semantic categories of imagined concepts of animals and tools during auditory imagery task",
+    "Name": "EEG recordings for semantic decoding of imagined animals and tools during auditory imagery task",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
