@@ -91,7 +91,7 @@ onset	duration	trial_type	value	sample	stim_file
 519.11279296875	n/a	animal_auditory_imagery_task	601	1063143	n/a
 524.12353515625	n/a	blank_white_screen	705	1073405	n/a
 526.103515625	n/a	fixation_cross	312	1077460	n/a
-527.3359375	n/a	tool_image	1	1079984	tools/сorkscrew_PNG43.png
+527.3359375	n/a	tool_image	1	1079984	tools/corkscrew_PNG43.png
 528.33837890625	n/a	mask	701	1082037	n/a
 528.95654296875	n/a	blank_white_screen	705	1083303	n/a
 529.56689453125	n/a	tool_auditory_imagery_task	601	1084553	n/a
@@ -113,7 +113,7 @@ onset	duration	trial_type	value	sample	stim_file
 590.64453125	n/a	break_end	704	1209640	n/a
 615.0400390625	n/a	block_start	300	1259602	n/a
 620.0390625	n/a	fixation_cross	312	1269840	n/a
-621.60302734375	n/a	tool_image	1	1273043	tools/сorkscrew_PNG43.png
+621.60302734375	n/a	tool_image	1	1273043	tools/corkscrew_PNG43.png
 622.60107421875	n/a	mask	701	1275087	n/a
 623.22314453125	n/a	blank_white_screen	705	1276361	n/a
 623.86328125	n/a	tool_auditory_imagery_task	601	1277672	n/a
@@ -291,7 +291,7 @@ onset	duration	trial_type	value	sample	stim_file
 1032.39794921875	n/a	animal_auditory_imagery_task	601	2114351	n/a
 1037.40576171875	n/a	blank_white_screen	705	2124607	n/a
 1039.3974609375	n/a	fixation_cross	312	2128686	n/a
-1041.087890625	n/a	tool_image	1	2132148	tools/сorkscrew_PNG43.png
+1041.087890625	n/a	tool_image	1	2132148	tools/corkscrew_PNG43.png
 1042.08544921875	n/a	mask	701	2134191	n/a
 1042.70556640625	n/a	blank_white_screen	705	2135461	n/a
 1043.3505859375	n/a	tool_auditory_imagery_task	601	2136782	n/a
@@ -633,7 +633,7 @@ onset	duration	trial_type	value	sample	stim_file
 1828.33349609375	n/a	tool_auditory_imagery_task	601	3744427	n/a
 1833.35400390625	n/a	blank_white_screen	705	3754709	n/a
 1835.3310546875	n/a	fixation_cross	312	3758758	n/a
-1836.64794921875	n/a	tool_image	1	3761455	tools/сorkscrew_PNG43.png
+1836.64794921875	n/a	tool_image	1	3761455	tools/corkscrew_PNG43.png
 1837.64697265625	n/a	mask	701	3763501	n/a
 1838.25390625	n/a	blank_white_screen	705	3764744	n/a
 1839.052734375	n/a	tool_auditory_imagery_task	601	3766380	n/a
@@ -921,7 +921,7 @@ onset	duration	trial_type	value	sample	stim_file
 2648.765625	n/a	animal_auditory_imagery_task	601	5424672	n/a
 2653.7685546875	n/a	blank_white_screen	705	5434918	n/a
 2655.75390625	n/a	fixation_cross	312	5438984	n/a
-2657.462890625	n/a	tool_image	1	5442484	tools/сorkscrew_PNG43.png
+2657.462890625	n/a	tool_image	1	5442484	tools/corkscrew_PNG43.png
 2658.462890625	n/a	mask	701	5444532	n/a
 2659.06884765625	n/a	blank_white_screen	705	5445773	n/a
 2659.9541015625	n/a	tool_auditory_imagery_task	601	5447586	n/a
@@ -1275,7 +1275,7 @@ onset	duration	trial_type	value	sample	stim_file
 3429.0947265625	n/a	tool_auditory_imagery_task	601	7022786	n/a
 3434.10009765625	n/a	blank_white_screen	705	7033037	n/a
 3436.09326171875	n/a	fixation_cross	312	7037119	n/a
-3437.93505859375	n/a	tool_image	1	7040891	tools/сorkscrew_PNG43.png
+3437.93505859375	n/a	tool_image	1	7040891	tools/corkscrew_PNG43.png
 3438.93603515625	n/a	mask	701	7042941	n/a
 3439.55029296875	n/a	blank_white_screen	705	7044199	n/a
 3440.12841796875	n/a	tool_auditory_imagery_task	601	7045383	n/a
@@ -1535,7 +1535,7 @@ onset	duration	trial_type	value	sample	stim_file
 3986.93701171875	n/a	animal_auditory_imagery_task	601	8165247	n/a
 3991.94921875	n/a	blank_white_screen	705	8175512	n/a
 3993.9453125	n/a	fixation_cross	312	8179600	n/a
-3995.91845703125	n/a	tool_image	1	8183641	tools/сorkscrew_PNG43.png
+3995.91845703125	n/a	tool_image	1	8183641	tools/corkscrew_PNG43.png
 3996.919921875	n/a	mask	701	8185692	n/a
 3997.53271484375	n/a	blank_white_screen	705	8186947	n/a
 3998.38720703125	n/a	tool_auditory_imagery_task	601	8188697	n/a
